@@ -26,7 +26,7 @@
 <!--     <a href='https://huggingface.co/fudan-generative-ai/hallo3'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a> -->
 
 <br>
-
+</div> 
 
 
 ## 📸 Showcase
