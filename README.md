@@ -34,24 +34,24 @@
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
   <tr>
       <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel1.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/Yubo-Shankui/bind-your-avatar/blob/master/static/videos/carousel1.mp4" width="100%" controls autoplay loop></video>
       </td>
       <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel2.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/Yubo-Shankui/bind-your-avatar/blob/master/static/videos/carousel2.mp4" width="100%" controls autoplay loop></video>
       </td>
        <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel3.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/Yubo-Shankui/bind-your-avatar/blob/master/static/videos/carousel3.mp4" width="100%" controls autoplay loop></video>
      </td>
   </tr>
   <tr>
       <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel4.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/Yubo-Shankui/bind-your-avatar/blob/master/static/videos/carousel4.mp4" width="100%" controls autoplay loop></video>
       </td>
        <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel5.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/Yubo-Shankui/bind-your-avatar/blob/master/static/videos/carousel5.mp4" width="100%" controls autoplay loop></video>
      </td>
       <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel6.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/Yubo-Shankui/bind-your-avatar/blob/master/static/videos/carousel6.mp4" width="100%" controls autoplay loop></video>
      </td>
   </tr>
 </table>
