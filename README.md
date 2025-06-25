@@ -34,24 +34,25 @@
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
   <tr>
       <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel1.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/f4b3e057-4556-49d9-8645-64d89742ba22" width="100%" controls autoplay loop></video>
       </td>
       <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel2.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/ead39a3d-02f9-4a27-ae1a-b273c99259ad" width="100%" controls autoplay loop></video>
       </td>
        <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel3.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/dd942429-719e-4329-ba2b-5994e239b91a" width="100%" controls autoplay loop></video>
      </td>
   </tr>
   <tr>
       <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel4.mp4" width="100%" controls autoplay loop></video>
+
+          <video src="https://github.com/user-attachments/assets/1d69b7e4-7f6e-4034-a05c-14f4175c8777" width="100%" controls autoplay loop></video>
       </td>
        <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel5.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/78c2b5be-fc9b-4e98-a5fc-2bd90beb6962" width="100%" controls autoplay loop></video>
      </td>
       <td>
-          <video src="https://yubo-shankui.github.io/bind-your-avatar/static/videos/carousel6.mp4" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/ddb911db-d617-4b13-972b-df9461dd17ce" width="100%" controls autoplay loop></video>
      </td>
   </tr>
 </table>
