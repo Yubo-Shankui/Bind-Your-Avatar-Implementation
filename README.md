@@ -34,34 +34,34 @@
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
   <tr>
       <td>
-          <video src="https://github.com/user-attachments/assets/f4b3e057-4556-49d9-8645-64d89742ba22" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/f0ba3e32-0881-4be6-b02f-0b7dffc0e39f" width="100%" controls autoplay loop></video>
       </td>
       <td>
-          <video src="https://github.com/user-attachments/assets/ead39a3d-02f9-4a27-ae1a-b273c99259ad" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/327cdf21-1042-4923-aa8b-730e8bd1dea4" width="100%" controls autoplay loop></video>
       </td>
        <td>
-          <video src="https://github.com/user-attachments/assets/dd942429-719e-4329-ba2b-5994e239b91a" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/4e0706f8-3634-47c4-816e-5eceb5c58280" width="100%" controls autoplay loop></video>
      </td>
   </tr>
   <tr>
       <td>
-
-          <video src="https://github.com/user-attachments/assets/1d69b7e4-7f6e-4034-a05c-14f4175c8777" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/812ee5b1-a77f-42e1-8958-3976c705fcc3" width="100%" controls autoplay loop></video>
       </td>
        <td>
-          <video src="https://github.com/user-attachments/assets/78c2b5be-fc9b-4e98-a5fc-2bd90beb6962" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/9faaef7d-3cbf-4d8c-93ec-aada418ccfd3" width="100%" controls autoplay loop></video>
      </td>
       <td>
-          <video src="https://github.com/user-attachments/assets/ddb911db-d617-4b13-972b-df9461dd17ce" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/10ec4363-1ea0-42f5-af79-d242be277289" width="100%" controls autoplay loop></video>
      </td>
   </tr>
 </table>
 
+
 Visit our [project page](https://yubo-shankui.github.io/bind-your-avatar/) to view more cases.
 
 ## 📰 News
-* `[2025.6.25]`  🔥 We release the arXiv paper for Bind-Your-Avatar, and you can click [here](https://arxiv.org/abs/2506.19833) to see more details.
-* `[2025.6.25]`  🔥 **All code, datasets & benchmark** are coming soon! 
+- `[2025.6.25]` 🔥 We release the arXiv paper for Bind-Your-Avatar, and you can click [here](https://arxiv.org/abs/2506.19833) to see more details.  
+- `[2025.6.25]` 🔥 **All code, datasets & benchmark** are coming soon!  
 
 
 ## 📝 Citation
@@ -79,5 +79,7 @@ If you find our work useful for your research, please consider citing the paper:
       url={https://arxiv.org/abs/2506.19833}, 
 }
 ```
+
+
 
 
