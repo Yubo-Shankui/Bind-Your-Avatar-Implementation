@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-Visit our [project page](https://fudan-generative-vision.github.io/hallo3/#/) to view more cases.
+Visit our [project page](https://yubo-shankui.github.io/bind-your-avatar/) to view more cases.
 
 ## 📰 News
 * `[2025.6.25]`  🔥 We release the arXiv paper for Bind-Your-Avatar, and you can click [here](https://arxiv.org/abs/2506.19833) to see more details.
