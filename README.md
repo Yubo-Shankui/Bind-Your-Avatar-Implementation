@@ -2,9 +2,9 @@
 <h1 align='center'>Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router</h1>
 
 <div align='center'>
-  <a href='https://github.com/cuijh26' target='_blank'>Yubo Huang</a><sup>1</sup>&emsp;
-  <a href='https://github.com/crystallee-ai' target='_blank'>Weiqiang Wang</a><sup>2</sup>&emsp;
-  <a href='https://github.com/subazinga' target='_blank'>Sirui Zhao</a><sup>1✉️</sup>&emsp;
+  <a href='https://github.com/Yubo-Shankui' target='_blank'>Yubo Huang</a><sup>1</sup>&emsp;
+  <a href='https://github.com/WJohnnyW' target='_blank'>Weiqiang Wang</a><sup>2</sup>&emsp;
+  <a href='https://scholar.google.com/citations?user=bEZurKQAAAAJ&hl=en' target='_blank'>Sirui Zhao</a><sup>1✉️</sup>&emsp;
   <a href='http://staff.ustc.edu.cn/~tongxu/index_zh.html' target='_blank'>Tong Xu</a><sup>1</sup>&emsp;
   <a href='http://home.ustc.edu.cn/~ll0825/' target='_blank'>Lin Liu</a><sup>1✉️</sup>&emsp;
   <a href='http://staff.ustc.edu.cn/~cheneh/' target='_blank'>Enhong Chen</a><sup>1✉️</sup>
