@@ -43,7 +43,7 @@
   </tr>
   <tr>
       <td>
-          <video src="https://github.com/user-attachments/assets/812ee5b1-a77f-42e1-8958-3976c705fcc3" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/f26b1240-b22f-4f6c-9a24-64bf08848f15" width="100%" controls autoplay loop></video>
       </td>
        <td>
           <video src="https://github.com/user-attachments/assets/9faaef7d-3cbf-4d8c-93ec-aada418ccfd3" width="100%" controls autoplay loop></video>
@@ -53,6 +53,10 @@
      </td>
   </tr>
 </table>
+
+
+
+
 
 
 Visit our [project page](https://yubo-shankui.github.io/bind-your-avatar/) to view more cases.
