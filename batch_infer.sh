@@ -1,0 +1,1 @@
+python tools/batch_run_samples.py --gpu_id 5
