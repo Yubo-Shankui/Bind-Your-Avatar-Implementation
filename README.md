@@ -76,16 +76,25 @@ conda activate bindyouravatar
 pip install -r requirements.txt
 ```
 
-The weights of model will soon be available at 🤗HuggingFace.
+### Download BindYourAvatar
 
-## 🗝️ 3. Inference 
+The weights are available at [🤗HuggingFace](https://huggingface.co/hyb1124/Bindyouravatar), you can download it with the following commands.
+
+```bash
+# if you are in china mainland, run this first: export HF_ENDPOINT=https://hf-mirror.com
+huggingface-cli download --repo-type model \
+hyb1124/Bindyouravatar \
+--local-dir pretrained
+```
+
+## 🗝️ Inference 
 We provide the inference scripts ```batch_infer.sh``` for simple testing. Run the command as examples: 
 
 ```bash
 bash batch_infer.sh
 ```
 
-## ⏰ 4. Training
+## ⏰ Training
 
 We have released the Stage 3 training script, while Stage 1 & 2 are coming soon — including multi-stage training pipelines and multi-ID video datasets.
 
