@@ -62,9 +62,39 @@
 Visit our [project page](https://yubo-shankui.github.io/bind-your-avatar/) to view more cases.
 
 ## 📰 News
+- `[2024.12.09]`  🔥 We released the inference code and part of the training pipeline for Bind-Your-Avatar — more to come soon!
 - `[2025.6.25]` 🔥 We release the arXiv paper for Bind-Your-Avatar, and you can click [here](https://arxiv.org/abs/2506.19833) to see more details.  
 - `[2025.6.25]` 🔥 **All code, datasets & benchmark** are coming soon!  
 
+## ⚙️ Environments
+
+We recommend the requirements as follows. 
+
+```bash
+conda create -n bindyouravatar python=3.11.0
+conda activate bindyouravatar
+pip install -r requirements.txt
+```
+
+The weights of model will soon be available at 🤗HuggingFace.
+
+## 🗝️ 3. Inference 
+We provide the inference scripts ```batch_infer.sh``` for simple testing. Run the command as examples: 
+
+```bash
+bash batch_infer.sh
+```
+
+## ⏰ 4. Training
+
+We have released the Stage 3 training script, while Stage 1 & 2 are coming soon — including multi-stage training pipelines and multi-ID video datasets.
+
+You can reproduce our Stage 3 experiments by simply running:
+
+```bash
+# For stage 3
+bash train.sh
+```
 
 ## 📝 Citation
 
