@@ -54,11 +54,8 @@ bash batch_infer.sh
 
 ## ⏰ Training
 
-We have released the Stage 3 training script, while Stage 1 & 2 are coming soon — including multi-stage training pipelines and multi-ID video datasets.
-
-You can reproduce our Stage 3 experiments by simply running:
+We have released the training script, you can reproduce our Stage 3 experiments by simply running:
 
 ```bash
-# For stage 3
 bash train.sh
 ```
