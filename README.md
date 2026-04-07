@@ -40,7 +40,8 @@
       <td>
           <video src="https://github.com/user-attachments/assets/0eb1ad16-6732-44e8-9ccf-df8f80db4362" width="100%" controls autoplay loop></video>
      </td>
-  </tr>
+  </tr> 
+  <td>
         <td>
           <video src="https://github.com/user-attachments/assets/5012462e-30e3-4fff-8a2b-a43af0aa6ef4" width="100%" controls autoplay loop></video>
       </td>
@@ -51,7 +52,6 @@
           <video src="https://github.com/user-attachments/assets/cfcdf8f3-fa08-444a-b3c4-50f91f036a4e" width="100%" controls autoplay loop></video>
      </td>
   </tr>
-  <tr>
 </table>
 
 
