@@ -34,7 +34,7 @@
           <video src="https://github.com/user-attachments/assets/f978ed51-429e-40ef-a231-c64cccc75ae6" width="100%" controls autoplay loop></video>
       </td>
       <td width="33%">
-          <video src="https://github.com/user-attachments/assets/0d171ce3-5ad4-4826-b59d-c7c6f76fb954" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/8dc45dd1-67c6-4267-ab1f-0eae471ec939" width="100%" controls autoplay loop></video>
       </td>
       <td width="33%">
           <video src="https://github.com/user-attachments/assets/0eb1ad16-6732-44e8-9ccf-df8f80db4362" width="100%" controls autoplay loop></video>
@@ -48,7 +48,7 @@
           <video src="https://github.com/user-attachments/assets/3badcf4b-3867-4792-ab58-2081ae56901b" width="100%" controls autoplay loop></video>
       </td>
       <td width="33%">
-          <video src="https://github.com/user-attachments/assets/cfcdf8f3-fa08-444a-b3c4-50f91f036a4e" width="100%" controls autoplay loop></video>
+          <video src="https://github.com/user-attachments/assets/12e55fe0-dd61-4114-ad1f-928b760ff6c2" width="100%" controls autoplay loop></video>
       </td>
   </tr>
 </table>
